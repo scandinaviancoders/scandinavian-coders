@@ -16,3 +16,7 @@ p {
   display: flex;
   align-items: center;
 }
+
+h4 {
+  font-family: 'Palanquin', sans-serif;
+}

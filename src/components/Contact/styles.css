@@ -1,0 +1,20 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  background-color: #F9F6F6;
+}
+
+.first-row, .second-row, .third-row {
+  width: 60vw;
+  margin: 1em 0;
+}
+
+h4 {
+  margin: 2em 0em 1em;
+}
+
+button {
+  width: 10em;
+  height: 2em;
+  font-family: 'Work sans', sans-serif;
+}
