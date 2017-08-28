@@ -1,0 +1,35 @@
+.navbar {
+  margin: 0;
+  height: 10vh;
+  width: 100vw;
+  font-family: 'Work Sans', sans-serif;
+}
+
+nav {
+  background: rgba(0, 0, 0, 0.1);
+  box-shadow: none;
+  color: black;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+nav ul a {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+li a {
+  margin: 0 2em;
+}
+
+.brand-logo {
+  height: 10vh;
+}
