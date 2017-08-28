@@ -2,7 +2,7 @@ import React, { Component} from 'react';
 import { Row, Col } from 'react-materialize';
 import './styles.css';
 
-class Goal extends Component {
+export default class Goal extends Component {
   render() {
     return(
       <div className="goal-wrapper">
@@ -25,5 +25,3 @@ class Goal extends Component {
     )
   }
 }
-
-export default Goal;

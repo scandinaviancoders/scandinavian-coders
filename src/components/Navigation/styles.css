@@ -1,0 +1,29 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5vh;
+  width: 100vw;
+}
+
+nav {
+  background: transparent;
+  box-shadow: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 1em;
+  text-transform: uppercase;
+  margin: 0 2em;
+  color: rgba(255, 255, 255, 0.7);
+  transition: 0.5s;
+}
+
+nav a:hover {
+  color: white;
+  transition: 0.5s;
+}

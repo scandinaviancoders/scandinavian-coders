@@ -6,3 +6,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.over-header-content {
+  background-color: rgba(0, 0, 0, 0.1);
+}

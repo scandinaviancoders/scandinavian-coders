@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Row,  Col} from 'react-materialize';
 import './styles.css';
 
-class Join extends Component {
+export default class Join extends Component {
   render() {
     return(
       <div className="contact">
@@ -40,5 +40,3 @@ class Join extends Component {
     )
   }
 }
-
-export default Join;

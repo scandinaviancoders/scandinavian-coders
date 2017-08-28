@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Row, Col } from 'react-materialize';
 import './styles.css';
 
-class About extends Component {
+export default class About extends Component {
   render() {
     return(
       <div className="about-wrapper" id="about">
@@ -25,5 +25,3 @@ class About extends Component {
     )
   }
 }
-
-export default About;
