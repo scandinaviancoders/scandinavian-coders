@@ -1,7 +1,8 @@
 {
   "name": "scandi-coders",
   "version": "0.1.0",
-  "private": true,
+  "deploy": "npm run build&&gh-pages -d build",
+  "homepage": "https://scandinaviancoders.github.io/scandinavian-coders",
   "dependencies": {
     "materialize-css": "^0.100.2",
     "react": "^15.6.1",
@@ -15,5 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
   }
 }

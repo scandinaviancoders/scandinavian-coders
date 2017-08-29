@@ -16,7 +16,7 @@ export default class About extends Component {
             </Col>
   	        <Col s={4}>
               <div className="about-img">
-                <img src="http://www194.lunapic.com/editor/working/15028111535986?6265650089" alt="image" />
+                <img src="https://image.ibb.co/fjUbBk/011_007_collective_group_masses_people_company.png" alt="image" />
               </div>
             </Col>
           </Row>

@@ -8,7 +8,7 @@ const Goal = () => (
       <Row>
         <Col s={4}>
           <div className="goal-img">
-            <img src="http://www194.lunapic.com/do-not-link-here-use-hosting-instead/15028111535986?8271727767" alt="image" />
+            <img src="https://image.ibb.co/ifjHZ5/028_021_achievement_badge_wreath_award_prize_top_rank_winner_win_cup.png" alt="image" />
           </div>
         </Col>
         <Col s={8}>

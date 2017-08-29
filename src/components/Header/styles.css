@@ -11,19 +11,6 @@
   font-family: 'Work Sans', sans-serif;
 }
 
-.btn-down, a{
-  height: 10vh;
-  width: 100%;
-  text-align: center;
-  color: rgba(255, 255, 255, 0.5);
-  transition: 0.5s;
-}
-
-.btn-down:hover, a:hover {
-  color: rgba(255, 255, 255, 0.8);
-  transition: 0.5s;
-}
-
 h1 {
   font-size: 50px;
   font-weight: lighter;
