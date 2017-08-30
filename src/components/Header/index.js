@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { Section, Row, Col, Icon } from 'react-materialize';
+import React from 'react';
 import './styles.css';
 
 const Header = () => (
