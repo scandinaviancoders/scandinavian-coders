@@ -1,48 +1,52 @@
 .contact {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  text-align: center;
   justify-content: center;
-  align-items: center;
+  text-align: center;
 }
 
 .join-media{
-  height: 30em;
-  width: 25em;
-  margin: 2em;
+  align-items: center;
   -webkit-box-shadow: -1px 3px 11px -1px rgba(224,221,224,1);
   -moz-box-shadow: -1px 3px 11px -1px rgba(224,221,224,1);
   box-shadow: -1px 3px 11px -1px rgba(224,221,224,1);
   display: flex;
   flex-direction: column;
-  align-items: center;
+  height: 30em;
+  margin: 2em;
+  width: 25em;
 }
 
 #join-logo, #join-logo-twitter {
-  width: 10em;
   height: 10em;
   padding: 1em;
+  width: 10em;
 }
 
 h5 {
-  text-transform: uppercase;
   font-weight: lighter;
+  text-transform: uppercase;
 }
 
 .join-btn {
+  align-items: center;
   background-color: rgba(51,51,51, 0.4);
-  width: 9em;
-  height: 3em;
   border-radius: 30px;
   display: flex;
+  height: 3em;
   justify-content: center;
-  align-items: center;
   margin: 2em 0;
   transition: 0.7s;
+  width: 9em;
 }
 
 .join-btn:hover {
   background-color: rgba(51,51,51, 0.6);
-  transition: 0.7s;
   cursor: pointer;
+  transition: 0.7s;
+}
+
+p a {
+  color: white;
 }

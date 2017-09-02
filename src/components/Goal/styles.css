@@ -6,22 +6,22 @@
   margin: 0em 8em;
 }
 
+.row {
+  align-items: center;
+  display: flex;
+}
+
 .goal-text {
+  font-family: 'Work Sans', sans-serif;
   font-size: 1.5em;
   margin: 3em;
-  font-family: 'Work Sans', sans-serif;
   text-align: left;
-}
-
-p {
-  font-weight: lighter;
-}
-
-.row {
-  display: flex;
-  align-items: center;
 }
 
 h4 {
   font-family: 'Palanquin', sans-serif;
+}
+
+p {
+  font-weight: lighter;
 }

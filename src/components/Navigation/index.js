@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './styles.css';
 
 const Navigation = () => (
@@ -6,8 +6,8 @@ const Navigation = () => (
     <nav>
       <div className="nav-links">
         <a href="/">Home</a>
-        <a href="/">About</a>
-        <a href="/">Contact</a>
+        <a href="#about">About</a>
+        <a href="#contact-form">Contact</a>
       </div>
     </nav>
   </div>

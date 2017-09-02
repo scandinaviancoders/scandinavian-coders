@@ -3,23 +3,24 @@
 }
 
 .header {
-  height: 85vh;
+  align-items: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   font-family: 'Work Sans', sans-serif;
-}
-
-h1 {
-  font-size: 50px;
-  font-weight: lighter;
-  text-transform: uppercase;
-  margin: .5em;
+  height: 85vh;
+  justify-content: center;
 }
 
 #logo {
   height: 10em;
-  width: 10em;
   margin: 0;
+  width: 10em;
+}
+
+
+h1 {
+  font-size: 50px;
+  font-weight: lighter;
+  margin: .5em;
+  text-transform: uppercase;  
 }

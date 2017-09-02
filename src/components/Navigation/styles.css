@@ -1,8 +1,8 @@
 .navigation {
-  display: flex;
   align-items: center;
-  justify-content: center;
+  display: flex;
   height: 5vh;
+  justify-content: center;
   width: 100vw;
 }
 
@@ -14,13 +14,13 @@ nav {
 }
 
 nav a {
+  color: rgba(255, 255, 255, 0.7);
   font-family: 'Work Sans', sans-serif;
   font-weight: lighter;
   font-size: 1em;
-  text-transform: uppercase;
   margin: 0 2em;
-  color: rgba(255, 255, 255, 0.7);
-  transition: 0.5s;
+  text-transform: uppercase;
+  transition: 0.5s;    
 }
 
 nav a:hover {
