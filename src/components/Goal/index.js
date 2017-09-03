@@ -14,7 +14,7 @@ const Goal = () => (
         <Col s={8}>
          <div className="goal-text">
             <h4>Our Goal</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>We want to boost the tech industry in Scandinavia by letting developers get in touch with each other. They can learn new technologies, share their knowledge, and make  friends through our Slack group and events.</p>
          </div>
         </Col>
       </Row>

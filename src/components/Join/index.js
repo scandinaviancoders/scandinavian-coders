@@ -6,31 +6,31 @@ const Join = () => (
   <div className="contact">
     <h4>Join Us</h4>
     <Row>
-    	<Col className='join-media'>
-        <img id="join-logo" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" alt="Slack Logo" />
+      <Col className='join-media'>
+        <img id="join-logo" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" alt="Slack Logo"/>
         <h5>Slack</h5>
         <hr />
-        <p>Join Our Community</p>
+        <p>To join the Slack group, send us an email!</p>
         <div className="join-btn">
-          <p><a href="http://www.facebook.com">Join</a></p>
+          <p><a href="mailto:scandinaviancoders@gmail.com">Message</a></p>
         </div>
       </Col>
     	<Col className='join-media'>
-        <img id="join-logo" src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png" alt="Facebook Logo" />
-        <h5>Facebook</h5>
-        <hr />
-        <p>Join Our Facebook Page </p>
-        <div className="join-btn">
-          <p><a href="http://www.facebook.com">Join</a></p>
-        </div>
-      </Col>
-    	<Col className='join-media'>
-        <img id="join-logo" src="https://www.sketchappsources.com/resources/source-image/twitterlogo_1x.png" alt="Twitter Logo"/>
+        <img id="join-logo" src="https://www.sketchappsources.com/resources/source-image/twitterlogo_1x.png" alt="Twitter Logo" />
         <h5>Twitter</h5>
         <hr />
         <p>Follow Us On Twitter</p>
         <div className="join-btn">
-          <p><a href="http://www.twitter.com">Join</a></p>
+          <p><a href="http://www.twitter.com">Follow</a></p>
+        </div>
+      </Col>
+    	<Col className='join-media'>
+        <img id="join-logo-github" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub Logo"/>
+        <h5>GitHub</h5>
+        <hr />
+        <p>Join Our GitHub Organization</p>
+        <div className="join-btn">
+          <p><a href="https://github.com/scandinaviancoders">Join</a></p>
         </div>
       </Col>
     </Row>

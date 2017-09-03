@@ -1,12 +1,14 @@
 .header-content {
-  background-image: url('https://preview.ibb.co/kt4tRk/coders.jpg');
+  background-image: url('https://preview.ibb.co/en3zoa/home_office_336373_1920.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 66vh;
   margin: 0;
   width: 100vw;
+  background-attachment: fixed;
 }
 
 .over-header-content {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.3);
+  border-bottom: 5px solid black;
 }

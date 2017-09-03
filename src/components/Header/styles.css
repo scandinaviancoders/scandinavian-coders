@@ -1,13 +1,14 @@
 .header-wrapper{
-  height: 95vh;
+  margin-top: 1em;
+  height: 60vh;
 }
 
 .header {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-family: 'Work Sans', sans-serif;
-  height: 85vh;
+  font-family: 'Lato', sans-serif;
+  height: 60vh;
   justify-content: center;
 }
 
@@ -19,8 +20,9 @@
 
 
 h1 {
-  font-size: 50px;
+  font-size: 80px;
   font-weight: lighter;
   margin: .5em;
-  text-transform: uppercase;  
+  text-transform: uppercase;
+  color: white;
 }

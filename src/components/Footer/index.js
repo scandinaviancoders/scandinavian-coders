@@ -3,7 +3,7 @@ import './styles.css';
 
 const Footer = () => (
   <div className="footer">
-    <p>© 2017 Copyright Lydia Hallie</p>
+    <p>© 2017 Copyright Lydia Hallie for Scandinavian Coders</p>
   </div>
 )
 

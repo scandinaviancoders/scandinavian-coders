@@ -18,7 +18,13 @@
   width: 25em;
 }
 
-#join-logo, #join-logo-twitter {
+#join-logo {
+  height: 10em;
+  padding: 1em;
+  width: 12em;
+}
+
+#join-logo-github {
   height: 10em;
   padding: 1em;
   width: 10em;

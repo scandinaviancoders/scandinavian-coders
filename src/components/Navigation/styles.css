@@ -1,16 +1,17 @@
 .navigation {
   align-items: center;
   display: flex;
-  height: 5vh;
+  height: 4vh;
   justify-content: center;
   width: 100vw;
 }
 
 nav {
-  background: transparent;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)); 
   box-shadow: none;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 nav a {
@@ -20,10 +21,10 @@ nav a {
   font-size: 1em;
   margin: 0 2em;
   text-transform: uppercase;
-  transition: 0.5s;    
+  transition: 0.5s;
 }
 
 nav a:hover {
-  color: white;
+  color: black;
   transition: 0.5s;
 }

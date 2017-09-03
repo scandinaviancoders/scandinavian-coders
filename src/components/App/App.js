@@ -4,7 +4,6 @@ import Header from '../Header';
 import About from '../About';
 import Goal from '../Goal';
 import Join from '../Join';
-import Contact from '../Contact';
 import Footer from '../Footer';
 import './App.css';
 
@@ -21,7 +20,6 @@ export default class App extends Component {
         <About />
         <Goal />
         <Join />
-        <Contact />
         <Footer />
       </div>
     );

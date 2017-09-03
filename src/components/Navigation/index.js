@@ -5,9 +5,9 @@ const Navigation = () => (
   <div className="navigation">
     <nav>
       <div className="nav-links">
-        <a href="/">Home</a>
-        <a href="#about">About</a>
-        <a href="#contact-form">Contact</a>
+        <a href="https://www.twitter.com">Twitter</a>
+        <a href="https://github.com/scandinaviancoders">GitHub</a>
+        <a href="mailto:scandinaviancoders@gmail.com">Contact</a>
       </div>
     </nav>
   </div>
